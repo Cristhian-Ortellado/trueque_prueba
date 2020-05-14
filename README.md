@@ -2,3 +2,4 @@
 Una pagina web para trueques, prueba.
 ## ahora estoy en la inicializacion!!
 ## espero aprender mas sobre github
+## no se hacer pull
