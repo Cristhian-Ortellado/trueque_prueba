@@ -9,3 +9,11 @@ div.contenedor {
     margin: 5%;
     background-color: #e1e1e1;
 }
+
+ul {
+    transition: all ease-in-out 1s;
+}
+
+ul.lista:hover {
+    transform: scale(1.2);
+}
