@@ -1,0 +1,48 @@
+[33mcommit e72755e1e87cac48044b277c6c65ff439178ff9a[m[33m ([m[1;36mHEAD -> [m[1;32mInicializacion[m[33m, [m[1;33mtag: version-1[m[33m, [m[1;31morigin/Inicializacion[m[33m)[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 20:53:59 2020 -0400
+
+    Se agrego estilos.css y contenido al index
+
+[33mcommit 2b9bd6edd6dcf92176c3c82a222f81d7ba61fa18[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 20:26:42 2020 -0400
+
+    Se creo el cuerpo  del html
+
+[33mcommit c61140ea01ce716b2fa615d51a94f508756c4947[m
+Merge: b2d507d 6d18716
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 19:41:52 2020 -0400
+
+    Logre fusionar las ramas
+
+[33mcommit 6d1871625c659a3a66baf5a07cf80487ef5c4ff6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 19:37:46 2020 -0400
+
+    Se agrego un comentario y index.html
+
+[33mcommit c11081da24923223fed5d814019f68788726c57e[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 19:35:44 2020 -0400
+
+    Readme modificado
+
+[33mcommit b2d507d1232c4e80d82ff91b41169e4cadff64e0[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 19:24:13 2020 -0400
+
+    No se hacer pull
+
+[33mcommit a3af252184cc9f3b92be8ad68b0a513e54335e9d[m
+Author: Cristhian <breideworld@gmail.com>
+Date:   Thu May 14 18:57:29 2020 -0400
+
+    Tenemos una nueva actualizacion
+
+[33mcommit 513d82fc96776eb1bf454a480552ff373a9c3bca[m
+Author: Cristhian-Ortellado <57239257+Cristhian-Ortellado@users.noreply.github.com>
+Date:   Thu May 14 17:44:04 2020 -0400
+
+    Initial commit
